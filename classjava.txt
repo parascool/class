@@ -2,4 +2,4 @@ package com.company
 The java language 
 is good for bank account.
 new program is added.
-core java mekes more skills.
+core java makes more money.
